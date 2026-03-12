@@ -1,34 +1,58 @@
-# ML4W Wallpaper Collection
+🖼️ Aesthetic Wallpapers Collection
 
-My personal wallpaper collection that fits best to tiling window managers.
+Welcome to the Aesthetic Wallpapers folder!
+A curated set of high-quality, minimal, and aesthetic wallpapers ready for your desktop. Perfect for Linux, Windows, or macOS setups.
 
-![image](https://github.com/user-attachments/assets/9f94272d-7278-4599-801c-8b104ca746c8)
+🎨 Preview
 
-## Installation
+Here are a few samples from this folder:
 
-Clone the directory from your home directory.
 
-```
-cd ~/Pictures # You can also choose a different location
-git clone --depth=1 https://github.com/mylinuxforwork/wallpaper.git
-cd wallpaper/
-```
-If you are using the ML4W Dotfiles for Hyprland, you can select the the new wallpaper folder with Waypaper.
+Anime-Purple-eyes.png
+zenitsu-agatsuma-5120x2880-22696.png
+satoru-gojo-suguru-5120x2880-16373.png
+Linux-user-Room.png
+Fantasy-Lake1.png
 
-## Update
+Add your favorite wallpaper from this folder as your desktop background!
 
-You can update the wallpapers with
+📥 How to Use
 
-```
-cd ~/Pictures/wallpaper
-git pull
-```
-## Wallpaper Resources
+Download or clone this folder.
 
-Great download resources for wallpapers are:
+Open your desktop wallpaper settings.
 
-https://www.reddit.com/r/wallpapers/
+Browse to this folder and select the wallpaper you want.
 
-https://4kwallpapers.com
+Works with Hyprland, i3, KDE, GNOME, Windows, or macOS.
 
-https://buymeacoffee.com/wallsbyjfl/posts/11032
+🔹 Tips for Best Aesthetic
+
+Keep your desktop clean and uncluttered.
+
+Match icon themes and terminal colors with the wallpaper.
+
+Use high-resolution wallpapers for multi-monitor setups.
+
+✨ Contributing
+
+Want to add more wallpapers?
+
+Only high-resolution images.
+
+Keep a clean and minimal aesthetic style.
+
+Open a pull request or add to your own collection.
+
+🏆 Credits
+
+Curated and maintained by Anmol Khadka (aka James Khadka)
+
+Please give credit if you share or showcase these wallpapers.
+
+⚠️ License
+
+Images belong to their respective artists.
+This collection is for personal use and convenience.
+
+If you are an artist and want your work removed, open an issue.
