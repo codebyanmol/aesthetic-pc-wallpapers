@@ -8,11 +8,11 @@ Perfect for Linux setups, Hyprland rice, macOS-style desktops, and minimal works
 
 | Anime Purple Eyes | Zenitsu Agatsuma | Satoru Gojo Suguru |
 |------------------|-----------------|------------------|
-| ![Anime Purple Eyes](Anime-Purple-eyes.png) | ![Zenitsu Agatsuma](zenitsu-agatsuma-5120x2880-22696.png) | ![Satoru Gojo Suguru](satoru-gojo-suguru-5120x2880-16373.png) |
+| ![Anime Purple Eyes](/Wallapers/Anime-Purple-eyes.png) | ![Zenitsu Agatsuma](/Wallapers/zenitsu-agatsuma-5120x2880-22696.png) | ![Satoru Gojo Suguru](/Wallapers/satoru-gojo-suguru-5120x2880-16373.png) |
 
 | Linux User Room | Fantasy Lake |
 |-----------------|--------------|
-| ![Linux User Room](Linux-user-Room.png) | ![Fantasy Lake](Fantasy-Lake1.png) |
+| ![Linux User Room](/Wallapers/Linux-user-Room.png) | ![Fantasy Lake](/Wallapers/Fantasy-Lake1.png) |
 
 > Click the images to view in full resolution.  
 ## Preview
