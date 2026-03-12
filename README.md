@@ -6,6 +6,15 @@ Perfect for Linux setups, Hyprland rice, macOS-style desktops, and minimal works
 
 ---
 
+| Anime Purple Eyes | Zenitsu Agatsuma | Satoru Gojo Suguru |
+|------------------|-----------------|------------------|
+| ![Anime Purple Eyes](Anime-Purple-eyes.png) | ![Zenitsu Agatsuma](zenitsu-agatsuma-5120x2880-22696.png) | ![Satoru Gojo Suguru](satoru-gojo-suguru-5120x2880-16373.png) |
+
+| Linux User Room | Fantasy Lake |
+|-----------------|--------------|
+| ![Linux User Room](Linux-user-Room.png) | ![Fantasy Lake](Fantasy-Lake1.png) |
+
+> Click the images to view in full resolution.  
 ## Preview
 
 A mix of wallpapers including:
